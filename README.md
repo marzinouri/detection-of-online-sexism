@@ -1,4 +1,4 @@
-# Detection of Online Sexism - SemEval 2023 Task
+# Detection of Online Sexism - SemEval 2023 Task 10
 
 This GitHub repository contains a baseline implementation for the detection of online sexism in English social media posts. The project is part of the SemEval 2023 Task on Online Sexism Detection, which involves three subtasks: Subtask A involves the detection of sexism, Subtask B categorizes such posts into four coarse-grained sexism categories, and Subtask C further refines the categorization into eleven fine-grained subcategories.
 
